@@ -30,7 +30,7 @@ The scenarios were told to industry, but kept secret from the public.
 
 Last year the government's original "reasonable worst case scenario" for no deal was that for three to six months, 75-87% of "flow" across the "short straits" would be interrupted and forced to join queues on motorways approaching the Channel Tunnel and ports.
 
-去年，政府应对没有达成协议的最初版本的“合理范围内最糟糕的情况”，是在3~6个月，75~87%“流量”在穿过“短途线路”时，将会被打断并被迫加入临近英吉利海峡的高速公路和港口的队列中。
+去年，政府应对没有达成协议的最初版本的“合理范围内最糟糕的情况”，是在3～6个月，75～87%“流量”在穿过“短途线路”时，将会被打断并被迫加入临近英吉利海峡的高速公路和港口的队列中。
 
 That assessment assumed that French authorities would check every lorry coming into its country manually. As there had been no talks between authorities, UK officials had to use satellite photographs to estimate the potential for holding and processing facilities around French ports.
 
@@ -46,7 +46,7 @@ That assessment assumed that French authorities would check every lorry coming i
 
 In April this secret assessment, shared with industry via non-disclosure agreements, was improved to 50-70% of freight stopped.
 
-在四月，已对业内进行非公开分享的这个秘密假设，已改善了 50-70% 的货运中断。
+在四月，已对业内进行非公开分享的这个秘密假设，已改善了 50~70% 的货运中断。
 
 This was principally because of the new preparations made on the French side of the border. For example, the Eurotunnel facility for UK freight can check nine lorries at the same time and provides parking for 100 vehicles.
 
@@ -54,7 +54,7 @@ This was principally because of the new preparations made on the French side of 
 
 In the past few days, the possible disruption to trade flow in the "short straits" has been further downgraded to 40-60% of traffic.
 
-在过去的这些日子里，在“短暂的困境”里，对交易线路来说可能的干扰，已经减少到只有40-60%的交通流量。
+在过去的这些日子里，在“短暂的困境”里，对交易线路来说可能的干扰，已经减少到只有40~0%的交通流量。
 
 Better than it was, but still meaning thousands of lorries stuck on motorways in Kent and around Calais, blocking and delaying crucial trade. Even at this improved rate of flow, the available spaces for emergency lorry parking on the M20 and at disused airfields, would fill up over a fortnight, better than the two or three days assumed last year.
 
@@ -67,3 +67,18 @@ It is understood that even if the flow rate was 80%, much higher than currently 
 In reply, a government spokesperson said: "We are pushing on with all preparations for a no-deal scenario. There are already well-developed plans in place to manage any traffic disruptions in Kent."
 
 对于此事的回复，一个政府发言人说：“我们正在全力准备对于推进未达成协议的情形。目前已经有完善的计划去管理任何在肯特郡发生的交通中断可能。”
+
+
+## 总结：
+
+由于英国脱欧，导致跨国货运比以前要复杂很多（比如要过海关之类）。
+
+目前，有很多车堵在路上了。英国去年由于没有达成相关协议（这里主要指和法国），因此原本的假设情况非常糟糕，比如说，法国海关手动检查每一辆过关的货车。于是英国的官员用卫星去检查法国的港口、高速和英吉利海峡的处理能力。
+
+今年呢，发现情况比预期的好很多。原因是因为法国在国境边做了很多事情，比如说，在海底隧道，可以同时处理9辆货车，还提供了100个货车停车位。这大概改善了50~70%的货运中断影响（英国国内的说法）。而原本预计在3～6个月里，有75～87%的货运被影响。
+
+但这个情况呢，并没有被公开，只是在业内分享了（指比如面向货车运输公司之类的吧）。
+
+不过虽然比预期好，但这仍然有成千上万的货车被堵在路上，并且停车场要被停满了。只是比去年预期的要好一点而已。
+
+假如交通流量水平达到80%，那么医药供应商就要BB了，不然没药咋办。然后政府发言人说，我们正在努力，已经有计划去处理这种情况了（译者注：这个说法也太官方了吧）。
