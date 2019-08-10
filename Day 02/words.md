@@ -80,6 +80,10 @@
 
 减损，损害
 
+* Opera
+
+剧院
+
 * galvanised
 
 镀锌、通电。这个和 protesters连写，是【激起了示威者/抗议者】的意思

@@ -34,7 +34,7 @@ Critics have long said waves created by cruise ships on the canal erode the foun
 
 But the June accident, in which the MSC Opera - a 275m (900ft) long ship - collided with a dock and a small tourist boat in the city's Giudecca canal, galvanised protesters to call for a definitive ban.
 
-但是在8月事故中，由于那艘在城市的Giudecca运河的，和码头以及一个小型游船相撞的长275m（900ft）MSC游览船，那些抗议者（galvanised protesters镀锌/通电抗议者这个翻译很奇怪……）正在要求一个更明确的禁令。
+但是在8月事故中，由于那艘在城市的Giudecca运河的，和码头以及一个小型游船相撞的长275米（900英尺）MSC邮轮，那些抗议者（galvanised protesters镀锌/通电抗议者这个翻译很奇怪……）正在要求一个更明确的禁令。
 
 The Giudecca, which passes close to the popular St Mark's Square, is one of Venice's major waterways.
 
