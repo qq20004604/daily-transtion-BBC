@@ -34,10 +34,6 @@ Hong Kong's mass demonstrations and unrest show no sign of abating, more than tw
 
 香港的群众示威和动荡并没有任何缓和的迹象，该情况因一个有争论的引渡法案而引起，至今超过2个月了。
 
-【译者注：根据BBC的新闻，该行为最早因一个法案，允许从香港将人引渡到大陆。该引渡方案目的是为了避免让香港成为某些犯罪的避风港，具体来说，将允许中国大陆，台湾和澳门当局对被控犯有谋杀和强奸等犯罪行为的嫌疑人提出引渡请求。并且受到商业的影响，一些商业违法行为（如逃税）已从可引渡的违法行为清单中删除。需要提的一点是，香港已与包括英国和美国在内的20个国家签订了引渡协议。）
-
-（另我自己补充，追根到底，这是由于香港是香港人的香港，还是中国人民的香港的分歧。全世界里的正常政府，当然只允许前者的发生，是基于后者作为前提，不知道为啥香港人那么傻逼。）
-
 * The background you need on the Hong Kong protests
 * 香港抗议活动背后你需要知道的事情
 * How radical youth forced the government's hand
@@ -58,3 +54,7 @@ They advised members of the public not to travel to the airport but said arrival
 About 75 million passengers passed through the airport - which is a major international transit hub - in 2018.
 
 在2018年，作为大型国际运输中心，该机场吞吐量大约有7500万乘客。
+
+【译者注：根据BBC的新闻，该行为最早因一个法案，允许从香港将人引渡到大陆。该引渡方案目的是为了避免让香港成为某些犯罪的避风港，具体来说，将允许中国大陆，台湾和澳门当局对被控犯有谋杀和强奸等犯罪行为的嫌疑人提出引渡请求。并且受到商业的影响，一些商业违法行为（如逃税）已从可引渡的违法行为清单中删除。需要提的一点是，香港已与包括英国和美国在内的20个国家签订了引渡协议。）
+
+（另我自己补充，追根到底，这是由于香港是香港人的香港，还是中国人民的香港的分歧。全世界里的正常政府，当然只允许前者的发生，是基于后者作为前提，不知道为啥香港人那么傻逼。）
