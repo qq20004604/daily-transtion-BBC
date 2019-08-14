@@ -151,3 +151,135 @@
 * unelected
 
 非民选的。
+
+* Travesty
+
+滑稽，名词。
+
+* break up
+
+分裂
+
+* diminished
+
+减少，精简，压紧，动词。
+
+* inward-looking
+
+内向型。
+
+* pretend
+
+假装，假意，冒充，动词。
+
+* smooth
+
+平滑，光滑，平稳，形容词。
+
+* faithfully
+
+忠实地，副词。
+
+* reflects
+
+反映，体现，动词。
+
+* attempting
+
+尝试
+
+* legislation
+
+立法，法律，法规，名词。
+
+* audience
+
+读者，观众。
+
+* suspend
+
+暂停，中止。
+
+* Secretary
+
+部长，秘书，书记。
+
+* urge
+
+督促，促使，动词。
+
+* remain
+
+仍然，留下，剩下。
+
+* admirer
+
+爱慕者，关注者。
+
+* sovereignty
+
+主权，独立。
+
+* argue
+
+争论，辩论。
+
+* executive
+
+行政人员，执行机构，管理人。
+
+* meanwhile
+
+与此同时。
+
+* reveale
+
+透露，揭示，泄露，动词。
+
+* senior
+
+前辈，高级。
+
+* scrap
+
+废除，粉碎，报废，名词，动词。
+
+* alarm
+
+惊动，焦虑。
+
+* appear
+
+出现，呈现，动词。
+
+* eliminate
+
+消除，根除，动词。
+
+* firmly
+
+牢固，坚固，副词。
+
+* compromise
+
+妥协，和解，动词，名词。
+
+* commit
+
+提交，承诺，保证。
+
+* assurance
+
+保证，把握，保险，名词。
+
+* cabinet
+
+内阁
+
+* resigne
+
+辞职
+
+* took office
+
+上任
