@@ -86,3 +86,11 @@ After a judge ordered the tanker's release, Mr Picardo earlier told the BBC that
 Neither Britain nor Gibraltar have responded to the US warrant.
 
 英国和直布罗陀都没有对美国的逮捕令做回应。
+
+### 总结：
+
+简单来说，美国说伊朗的某艘油轮是运油给叙利亚。我要签一个逮捕令扣押这艘船。
+
+伊朗说，我不是我没有别瞎说，这不可能运给被欧盟制裁的企业。然后伊朗也扣押了一个英国的某个著名油轮。
+
+英国领地直布罗陀说，伊朗给我保证了，这艘油轮不会给叙利亚运油的。我们也扣押了叙利亚很多原油呢。所以我打算释放这艘伊朗的油轮，就酱紫了。然后英国并不鸟美国的那个逮捕令。
