@@ -31,7 +31,7 @@ unions succeeded in reaching a pay settlement.旨在解决争议或冲突的官�
 
 * civil
 
-国内的，形容词。
+国内的，民用的，形容词。
 
 * lawsuit
 
@@ -156,4 +156,108 @@ a person appointed to act for another in business or legal matters.被指定在�
 * finalize
 
 敲定，动词。produce or agree on a finished and definitive version of.产生或同意完成和确定的版本。
+
+* go into effect
+
+生效。
+
+* unspecified
+
+不明。not stated clearly or exactly.未明确或准确说明。
+
+* monetary
+
+货币，金钱，名词。of or relating to money or currency.货币或货币的或与之有关的。
+
+* initial
+
+初始，最初的，形容词。existing or occurring at the beginning.
+
+* conviction
+
+定罪，名词。
+
+* overturn
+
+颠覆，倾覆，翻转，动词。tip (something) over so that it is on its side or upside down.提示（某物），使其侧向或颠倒。abolish, invalidate, or reverse (a previous system, decision, situation, etc.).废除，无效或倒退（先前的制度，决定，情况等）。
+
+* supreme
+
+最高的，至上的，形容词。
+
+* upheld
+
+坚持，维护，捍卫，动词。confirm or support (something that has been questioned).
+
+* vacate
+
+放弃，废止，动词。leave (a place that one previously occupied).离开（一个以前占据过的地方）。
+
+* previously
+
+先前，预先，副词。at a previous or earlier time; before.
+
+* available
+
+可得到，可用的，形容词。able to be used or obtained; at someone's disposal.
+
+* subsequently
+
+后来，以后，副词。after a particular thing has happened; afterward.
+
+* identify
+
+鉴定，辨认出（倾向于比较肯定的），动词。establish or indicate who or what (someone or something) is.建立或指明谁或某人（某人或某事）。
+
+* sentence
+
+判处（徒刑），名词，动词。declare the punishment decided for (an offender).宣布为（罪犯）决定的惩罚。
+
+* confident
+
+信心，确信，名词，形容词。feeling or showing confidence in oneself; self-assured.感受或表现出对自己的信心;自信。
+
+* litigation
+
+诉讼，名词。the process of taking legal action.
+
+* incarceration
+
+监禁，名词。the state of being confined in prison; imprisonment.
+
+* tragic
+
+悲惨的，形容词。
+
+* rarely
+
+很少，稀少，副词。not often; seldom.
+
+* sincerely
+
+诚挚，副词。in a sincere or genuine way.
+
+* utilize
+
+利用，采用，动词。make practical and effective use of.
+
+* intentionally
+
+故意地，副词。
+
+* psychiatric
+
+精神病，形容词。of or relating to mental illness or its treatment.
+
+* counselor
+
+参赞，顾问，名词。a person trained to give guidance on personal, social, or psychological problems.受过训练的人，可以就个人，社会或心理问题提供指导。
+
+* sufficiently
+
+充分地，副词。
+
+* qualify
+
+给于资格，动词。be entitled to a particular benefit or privilege by fulfilling a necessary condition.通过履行必要条件获得特定福利或特权。
 
